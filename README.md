@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Rahul-Ji-Ara
-- 👀 I’m interested in Coding And Exploring New Things.
-- 🌱 I’m currently learning React.
+Rahul Ji Ara
+I am FrontEnd Web Developer
+Skills - HTML, CSS, JAVASCRIPT, BOOTSTRAP, JQUERY, REACT

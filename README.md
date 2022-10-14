@@ -1,3 +1,3 @@
-My self Rahul,
+My Self Rahul,
 I am FrontEnd Web Developer.
-i have skills of HTML, CSS, JAVASCRIPT, BOOTSTRAP, JQUERY, REACT Languages.
+I have skills of HTML, CSS, JAVASCRIPT, BOOTSTRAP, JQUERY, REACT Languages.
